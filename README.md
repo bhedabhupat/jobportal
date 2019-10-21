@@ -1,2 +1,2 @@
 # jobportal
-Jobpartal demo with Django and React
+Job Scraping With Django and ReactJS
