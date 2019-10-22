@@ -1,5 +1,5 @@
 # jobportal
-Job Scraping With Django and ReactJS
+Scrap the job using Django and View in ReactJS
 
 clone this repository and setup django and ReactJS, All the code related to django are available in `Job` and ReactJS code is available in `frontend` directory
 
