@@ -6,13 +6,14 @@ clone this repository and setup django and ReactJS, All the code related to djan
 ## Setup DJango with Python
 
 - Set virtual environment using Python 3 and install requirements.txt
+- go inside job directory and run below commands
 - Run migrations using `python manage.py migrate`
 - Run `python manage.py scrap_jobs` to scrap all jobs
 - Runs the app in the development mode.
 
 ## Setup ReactJS
 
-- Go to forntend directory and run `npm install`
+- Go to frontend directory and run `npm install`
 - Run `npm start` to view front in Browser http://localhost:3000
 
 ## Prerequisites
